@@ -1,4 +1,4 @@
-# Breath Mindfulness Study - Group A
+# Breath Mindfulness Study - Responsive
 
 ## About
 
