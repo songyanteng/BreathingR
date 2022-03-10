@@ -42,6 +42,13 @@ body {
   height: 1000px;
   display: none;
 }
+#warning {
+  font-weight: 700;
+  font-size: 1.2vw;
+  text-align: center;
+  padding-top: 580px;
+  display: none;
+}
 #circlecanvas,
 #circlecanvas2 {
   position: absolute;
