@@ -474,8 +474,11 @@ function doAlgo() {
       context.fillText(
         "Deep Breathing Time: " + deepMin + "m " + deepSec + "s",
         x - 190,
-        y + 70
+        y + 60
       );
+
+      let warning = document.getElementById("warning");
+      warning.style.display = "block";
 
       /*
       if (inhaleTime + exhaleTime == 0) {
