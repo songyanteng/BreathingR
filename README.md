@@ -16,4 +16,4 @@ One of:
 
 ## How To Use
 
-Visit GitHub Pages: https://songyanteng.github.io/BreathingGroupA/
+Visit GitHub Pages: https://songyanteng.github.io/BreathingR/
